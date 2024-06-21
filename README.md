@@ -3,7 +3,7 @@
 Paper link (preprint): [https://arxiv.org/abs/2405.03140]
 
 ## News :fire:
-- **May 9, 2024:** Congratulations ! Paper has been accepted by MICCAI 2024 !
+- **June 17, 2024:** Congratulations ! Paper has been accepted by MICCAI 2024 !
 
 <img align="right" width="50%" height="100%" src="https://github.com/ChongQingNoSubway/SelfReg-UNet/blob/main/MICCAI2024/findings.jpg">
 
