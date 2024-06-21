@@ -14,5 +14,6 @@ Paper link (preprint): [https://arxiv.org/abs/2405.03140]
 
 
 ## Thanks for the code provided by:
-- Todynet:https://github.com/liuxz1011/TodyNet
-
+- HiFormer: https://github.com/amirhossein-kz/hiformer
+- CASCADE: https://github.com/SLDGroup/CASCADE
+- UCTransNet: https://github.com/mcgregorwwww/uctransnet
