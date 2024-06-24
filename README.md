@@ -1,6 +1,6 @@
-# SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation (MICCAI 2024) [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2405.03140)
+# SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation (MICCAI 2024) [![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2406.14896)
 
-Paper link (preprint): [https://arxiv.org/abs/2405.03140]
+Paper link (preprint): [https://arxiv.org/abs/2406.14896]
 
 ## News :fire:
 - **June 17, 2024:** Congratulations ! Paper has been accepted by MICCAI 2024 !
