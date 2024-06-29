@@ -103,6 +103,7 @@ In ``` ./src/train_synapse```:
 
 
 ## Thanks for the code provided by:
+- SwinUnet: https://github.com/HuCaoFighting/Swin-Unet
 - HiFormer: https://github.com/amirhossein-kz/hiformer
 - CASCADE: https://github.com/SLDGroup/CASCADE
 - UCTransNet: https://github.com/mcgregorwwww/uctransnet
