@@ -12,9 +12,9 @@ from tensorboardX import SummaryWriter
 from torch.nn.modules.loss import CrossEntropyLoss
 from torch.utils.data import DataLoader
 from tqdm import tqdm
-from utils import DiceLoss
+from utils.utils import DiceLoss
 from torchvision import transforms
-from utils import test_single_volume
+from utils.utils import test_single_volume
 import torch.nn.functional as F
 
 class KDloss(nn.Module):
