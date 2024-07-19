@@ -101,6 +101,9 @@ In ``` ./src/train_synapse```:
 
 **Check weights.**  https://drive.google.com/drive/folders/1V9y3fOgKExOFS8namk46UwJqH3yFoPu_?usp=sharing
 
+**Train Unet**
+```python train_unetKD.py   --save_path kd_unet```
+
 
 ## Thanks for the code provided by:
 - SwinUnet: https://github.com/HuCaoFighting/Swin-Unet
