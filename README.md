@@ -97,6 +97,11 @@ In ``` ./src/train_synapse```:
 ```python train.py --dataset Synapse --cfg configs/swin_tiny_patch4_window7_224_lite.yaml --max_epochs 150 --output_dir 11_1  --gpu_id 0 --img_size 224 --base_lr 0.05 --batch_size 32 --lambda_x 0.010 ```
 
 **test**
+For the synase dataset, you may need to modify line 129 in test.py
+```
+            snapshot = os.path.join(args.output_dir, f'epoch_{epoch}.pth')
+```
+then run
 ```python test.py --dataset Synapse --cfg configs/swin_tiny_patch4_window7_224_lite.yaml --is_saveni --output_dir 11_1 --max_epoch 150 --base_lr 0.05 --img_size 224 --batch_size 24```
 
 **Check weights.**  https://drive.google.com/drive/folders/1V9y3fOgKExOFS8namk46UwJqH3yFoPu_?usp=sharing
