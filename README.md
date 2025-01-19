@@ -3,6 +3,7 @@
 Paper link (preprint): [https://arxiv.org/abs/2406.14896]
 
 ## News :fire:
+- **Jan 18, 2025:** ACDC dowonload From google Drive: https://drive.google.com/file/d/13qYHNIWTIBzwyFgScORL2RFd002vrPF2/view?pli=1 !
 - **June 17, 2024:** Congratulations ! Paper has been accepted by MICCAI 2024 !
 
 <img align="right" width="100%" height="100%" src="https://github.com/ChongQingNoSubway/SelfReg-UNet/blob/main/MICCAI2024/findings.jpg">
